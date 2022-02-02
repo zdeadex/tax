@@ -1,4 +1,4 @@
-#MISSION TAX
+MISSION TAX
 
 The idea is to get few data by scrapping API of blockchains for tax purposes.
 Four things needs to be extracted from a block hash:
