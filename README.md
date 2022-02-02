@@ -19,7 +19,7 @@ We need here to extract all transactions hash from the operator address with a `
 ```#
 ```
 
-*STEP 2: WHICH DATA I NEED?
+*STEP 2: WHICH DATA I NEED?*
 
 We need to extract the data in all the tranasction hash as mentioned earlier:
 
