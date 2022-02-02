@@ -9,4 +9,5 @@ Others column we gonna add:
 
 Basicaly, the ```real_token_amount``` is the decimals change from the ```withdraw_commission``` amount (for most blockchains it will be 6 decimals)
 
-First, we need to extract all transaction from the operator address with a ```cosmos-sdk/MsgWithdrawValidatorCommission``` function.
+*STEP 1: WHICH TRANSACTIONS I NEED?*
+First, we need to extract all transactions from the operator address with a ```cosmos-sdk/MsgWithdrawValidatorCommission``` function.
