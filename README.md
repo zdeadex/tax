@@ -2,6 +2,7 @@
 
 The idea is to get few data by scrapping API of blockchains for tax purposes.
 Four things needs to be extracted from a block hash:
+
 ```block_id``` | ```txhash```	| ```timestamp``` |	```withdraw_commission```
 
 Other columns we'll be adding:
